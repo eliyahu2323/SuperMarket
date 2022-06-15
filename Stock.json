@@ -1,0 +1,422 @@
+{
+  "stock": [
+    {
+      "ListProduct": [
+        {
+          "name": "Bamba",
+          "barcode": 2520,
+          "cost": 7.9,
+          "Amount": 0
+        },
+        {
+          "name": "BisliGril",
+          "barcode": 2521,
+          "cost": 6.9,
+          "Amount": 0
+        },
+        {
+          "name": "BisliOnion",
+          "barcode": 2522,
+          "cost": 6.9,
+          "Amount": 0
+        },
+        {
+          "name": "BisliFalafel",
+          "barcode": 2523,
+          "cost": 6.9,
+          "Amount": 0
+        },
+        {
+          "name": "BisliPizza",
+          "barcode": 2524,
+          "cost": 6.9,
+          "Amount": 0
+        },
+        {
+          "name": "BambaNugat",
+          "barcode": 2525,
+          "cost": 7.9,
+          "Amount": 0
+        },
+        {
+          "name": "Pasta",
+          "barcode": 2526,
+          "cost": 4.9,
+          "Amount": 0
+        },
+        {
+          "name": "ManaHamaTahiland",
+          "barcode": 2527,
+          "cost": 5.9,
+          "Amount": 0
+        },
+        {
+          "name": "ManaHamaCoscos",
+          "barcode": 2528,
+          "cost": 5.9,
+          "Amount": 0
+        },
+        {
+          "name": "ManaHamaSpageti",
+          "barcode": 2529,
+          "cost": 5.9,
+          "Amount": 0
+        },
+        {
+          "name": "HargliotChocolat",
+          "barcode": 25210,
+          "cost": 9.9,
+          "Amount": 0
+        },
+        {
+          "name": "HargliotStrobarry",
+          "barcode": 25211,
+          "cost": 9.9,
+          "Amount": 0
+        },
+        {
+          "name": "BambaBig",
+          "barcode": 25212,
+          "cost": 9.9,
+          "Amount": 0
+        },
+        {
+          "name": "BisliGrilBig",
+          "barcode": 25213,
+          "cost": 9.9,
+          "Amount": 0
+        },
+        {
+          "name": "BisliOnionBig",
+          "barcode": 25214,
+          "cost": 9.9,
+          "Amount": 0
+        },
+        {
+          "name": "BisliFalafelBig",
+          "barcode": 25215,
+          "cost": 9.9,
+          "Amount": 0
+        },
+        {
+          "name": "BisliPizzaBig",
+          "barcode": 25216,
+          "cost": 9.9,
+          "Amount": 0
+        }
+      ],
+      "NameCompany": "Osem",
+      "NameDoubt": "Eli",
+      "NumberSearch": "025898565",
+      "key": 1
+    },
+    {
+      "ListProduct": [
+        {
+          "name": "chipsOri",
+          "barcode": 1111,
+          "cost": 5.9,
+          "Amount": 0
+        },
+        {
+          "name": "chipsOnion",
+          "barcode": 1112,
+          "cost": 5.9,
+          "Amount": 0
+        },
+        {
+          "name": "chipsGril",
+          "barcode": 1113,
+          "cost": 5.9,
+          "Amount": 0
+        },
+        {
+          "name": "chipsBarbiq",
+          "barcode": 1114,
+          "cost": 5.9,
+          "Amount": 0
+        },
+        {
+          "name": "chipsCrahnch",
+          "barcode": 1115,
+          "cost": 5.9,
+          "Amount": 0
+        },
+        {
+          "name": "chipsCrahnchGril",
+          "barcode": 1116,
+          "cost": 5.9,
+          "Amount": 0
+        },
+        {
+          "name": "Thami",
+          "barcode": 1117,
+          "cost": 5.9,
+          "Amount": 0
+        },
+        {
+          "name": "CifCaf",
+          "barcode": 1118,
+          "cost": 5.9,
+          "Amount": 0
+        },
+        {
+          "name": "Egozi",
+          "barcode": 1119,
+          "cost": 5.9,
+          "Amount": 0
+        },
+        {
+          "name": "PasekZmanOrgi",
+          "barcode": 1116,
+          "cost": 5.9,
+          "Amount": 0
+        },
+        {
+          "name": "Mecopelet",
+          "barcode": 1120,
+          "cost": 5.9,
+          "Amount": 0
+        },
+        {
+          "name": "SababaBarbiqu",
+          "barcode": 1121,
+          "cost": 5.9,
+          "Amount": 0
+        },
+        {
+          "name": "Tortit",
+          "barcode": 1122,
+          "cost": 5.9,
+          "Amount": 0
+        },
+        {
+          "name": "DoritosGril",
+          "barcode": 1123,
+          "cost": 5.9,
+          "Amount": 0
+        },
+        {
+          "name": "DoritosDip",
+          "barcode": 1124,
+          "cost": 5.9,
+          "Amount": 0
+        },
+        {
+          "name": "DoritosHot",
+          "barcode": 1125,
+          "cost": 5.9,
+          "Amount": 0
+        },
+        {
+          "name": "DoritosHotCheese",
+          "barcode": 1126,
+          "cost": 5.9,
+          "Amount": 0
+        },
+        {
+          "name": "Sababa",
+          "barcode": 1127,
+          "cost": 5.9,
+          "Amount": 0
+        }
+      ],
+      "NameCompany": "Elit",
+      "NameDoubt": "Eli",
+      "NumberSearch": "0532894600",
+      "key": 2
+    },
+    {
+      "ListProduct": [
+        {
+          "name": "Boten",
+          "barcode": 3001,
+          "cost": 11.9,
+          "Amount": 0
+        },
+        {
+          "name": "Kabokim",
+          "barcode": 3002,
+          "cost": 11.9,
+          "Amount": 0
+        },
+        {
+          "name": "Nuts",
+          "barcode": 3003,
+          "cost": 11.9,
+          "Amount": 0
+        },
+        {
+          "name": "MentosStrobery",
+          "barcode": 3004,
+          "cost": 11.9,
+          "Amount": 0
+        },
+        {
+          "name": "MentosMint",
+          "barcode": 3005,
+          "cost": 11.9,
+          "Amount": 0
+        },
+        {
+          "name": "MentosWaterMelon",
+          "barcode": 3006,
+          "cost": 11.9,
+          "Amount": 0
+        },
+        {
+          "name": "MentosMintHard",
+          "barcode": 3007,
+          "cost": 11.9,
+          "Amount": 0
+        },
+        {
+          "name": "LoakerWhite",
+          "barcode": 3008,
+          "cost": 14.9,
+          "Amount": 0
+        },
+        {
+          "name": "LoakerDark",
+          "barcode": 3009,
+          "cost": 14.9,
+          "Amount": 0
+        },
+        {
+          "name": "LoakerMilk",
+          "barcode": 3010,
+          "cost": 14.9,
+          "Amount": 0
+        },
+        {
+          "name": "LoakerCoconut",
+          "barcode": 3011,
+          "cost": 14.9,
+          "Amount": 0
+        }
+      ],
+      "NameCompany": "Liman",
+      "NameDoubt": "Avi",
+      "NumberSearch": "0505050254",
+      "key": 3
+    },
+    {
+      "ListProduct": [
+        {
+          "name": "XL",
+          "barcode": 5001,
+          "cost": 7.9,
+          "Amount": 0
+        },
+        {
+          "name": "SapaApple-0.3L",
+          "barcode": 5002,
+          "cost": 9.9,
+          "Amount": 0
+        },
+        {
+          "name": "SapaPeach-0.3L",
+          "barcode": 5003,
+          "cost": 9.9,
+          "Amount": 0
+        },
+        {
+          "name": "SapaMelon-0.3L",
+          "barcode": 5004,
+          "cost": 9.9,
+          "Amount": 0
+        },
+        {
+          "name": "SapaApple-1L",
+          "barcode": 5005,
+          "cost": 15.9,
+          "Amount": 0
+        },
+        {
+          "name": "SapaPeach-1L",
+          "barcode": 5006,
+          "cost": 15.9,
+          "Amount": 0
+        },
+        {
+          "name": "SapaMelon-1L",
+          "barcode": 5007,
+          "cost": 15.9,
+          "Amount": 0
+        },
+        {
+          "name": "Pepsi-1.5L",
+          "barcode": 5008,
+          "cost": 11.9,
+          "Amount": 0
+        },
+        {
+          "name": "Pepsi-0.5L",
+          "barcode": 5009,
+          "cost": 7.9,
+          "Amount": 0
+        },
+        {
+          "name": "PepsiMax-1.5L",
+          "barcode": 5010,
+          "cost": 11.9,
+          "Amount": 0
+        },
+        {
+          "name": "PepsiMax-0.5L",
+          "barcode": 5011,
+          "cost": 7.9,
+          "Amount": 0
+        },
+        {
+          "name": "Soda-1.5L",
+          "barcode": 5012,
+          "cost": 6.9,
+          "Amount": 0
+        },
+        {
+          "name": "Soda-0.3L",
+          "barcode": 5013,
+          "cost": 5.9,
+          "Amount": 0
+        },
+        {
+          "name": "ArizonaPeach-0.5L",
+          "barcode": 5014,
+          "cost": 9.9,
+          "Amount": 0
+        },
+        {
+          "name": "ArizonaTea-0.5L",
+          "barcode": 5015,
+          "cost": 9.9,
+          "Amount": 0
+        },
+        {
+          "name": "JumexMango",
+          "barcode": 5016,
+          "cost": 5.9,
+          "Amount": 0
+        },
+        {
+          "name": "JumexPeach",
+          "barcode": 5017,
+          "cost": 5.9,
+          "Amount": 0
+        },
+        {
+          "name": "JumexPinnapple",
+          "barcode": 5018,
+          "cost": 5.9,
+          "Amount": 0
+        }
+      ],
+      "NameCompany": "Tempo",
+      "NameDoubt": "Yair",
+      "NumberSearch": "0526589755",
+      "key": 4
+    }
+  ],
+  "AmountProduct": 0,
+  "ValueOfProduct": 0.0
+}

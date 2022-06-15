@@ -1,0 +1,74 @@
+{
+  "ListProduct": [
+    {
+      "name": "Boten",
+      "barcode": 3001,
+      "cost": 11.9,
+      "Amount": 0
+    },
+    {
+      "name": "Kabokim",
+      "barcode": 3002,
+      "cost": 11.9,
+      "Amount": 0
+    },
+    {
+      "name": "Nuts",
+      "barcode": 3003,
+      "cost": 11.9,
+      "Amount": 0
+    },
+    {
+      "name": "MentosStrobery",
+      "barcode": 3004,
+      "cost": 11.9,
+      "Amount": 0
+    },
+    {
+      "name": "MentosMint",
+      "barcode": 3005,
+      "cost": 11.9,
+      "Amount": 0
+    },
+    {
+      "name": "MentosWaterMelon",
+      "barcode": 3006,
+      "cost": 11.9,
+      "Amount": 0
+    },
+    {
+      "name": "MentosMintHard",
+      "barcode": 3007,
+      "cost": 11.9,
+      "Amount": 0
+    },
+    {
+      "name": "LoakerWhite",
+      "barcode": 3008,
+      "cost": 14.9,
+      "Amount": 0
+    },
+    {
+      "name": "LoakerDark",
+      "barcode": 3009,
+      "cost": 14.9,
+      "Amount": 0
+    },
+    {
+      "name": "LoakerMilk",
+      "barcode": 3010,
+      "cost": 14.9,
+      "Amount": 0
+    },
+    {
+      "name": "LoakerCoconut",
+      "barcode": 3011,
+      "cost": 14.9,
+      "Amount": 0
+    }
+  ],
+  "NameCompany": "Liman",
+  "NameDoubt": "Avi",
+  "NumberSearch": "0505050254",
+  "key": 3
+}

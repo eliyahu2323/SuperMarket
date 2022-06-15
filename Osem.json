@@ -1,0 +1,110 @@
+{
+  "ListProduct": [
+    {
+      "name": "Bamba",
+      "barcode": 2520,
+      "cost": 7.9,
+      "Amount": 0
+    },
+    {
+      "name": "BisliGril",
+      "barcode": 2521,
+      "cost": 6.9,
+      "Amount": 0
+    },
+    {
+      "name": "BisliOnion",
+      "barcode": 2522,
+      "cost": 6.9,
+      "Amount": 0
+    },
+    {
+      "name": "BisliFalafel",
+      "barcode": 2523,
+      "cost": 6.9,
+      "Amount": 0
+    },
+    {
+      "name": "BisliPizza",
+      "barcode": 2524,
+      "cost": 6.9,
+      "Amount": 0
+    },
+    {
+      "name": "BambaNugat",
+      "barcode": 2525,
+      "cost": 7.9,
+      "Amount": 0
+    },
+    {
+      "name": "Pasta",
+      "barcode": 2526,
+      "cost": 4.9,
+      "Amount": 0
+    },
+    {
+      "name": "ManaHamaTahiland",
+      "barcode": 2527,
+      "cost": 5.9,
+      "Amount": 0
+    },
+    {
+      "name": "ManaHamaCoscos",
+      "barcode": 2528,
+      "cost": 5.9,
+      "Amount": 0
+    },
+    {
+      "name": "ManaHamaSpageti",
+      "barcode": 2529,
+      "cost": 5.9,
+      "Amount": 0
+    },
+    {
+      "name": "HargliotChocolat",
+      "barcode": 25210,
+      "cost": 9.9,
+      "Amount": 0
+    },
+    {
+      "name": "HargliotStrobarry",
+      "barcode": 25211,
+      "cost": 9.9,
+      "Amount": 0
+    },
+    {
+      "name": "BambaBig",
+      "barcode": 25212,
+      "cost": 9.9,
+      "Amount": 0
+    },
+    {
+      "name": "BisliGrilBig",
+      "barcode": 25213,
+      "cost": 9.9,
+      "Amount": 0
+    },
+    {
+      "name": "BisliOnionBig",
+      "barcode": 25214,
+      "cost": 9.9,
+      "Amount": 0
+    },
+    {
+      "name": "BisliFalafelBig",
+      "barcode": 25215,
+      "cost": 9.9,
+      "Amount": 0
+    },
+    {
+      "name": "BisliPizzaBig",
+      "barcode": 25216,
+      "cost": 9.9,
+      "Amount": 0
+    }
+  ],
+  "NameCompany": "Osem",
+  "NameDoubt": "Eli",
+  "NumberSearch": "025898565",
+  "key": 1
+}
